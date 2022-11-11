@@ -1,8 +1,8 @@
 download: bash ./scripts/get_coco.sh
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: https://drive.google.com/drive/folders/1DuYJmAqwXtaByjTKW_NAhAwEnW_LICCP?usp=share_link
-val: https://drive.google.com/drive/folders/1z83K6UDVcwNuzWD1eRxW575jXLw1BW5n?usp=share_link
+train: /Users/er/Desktop/InterCV/car_pers_flow/train
+val: /Users/er/Desktop/InterCV/car_pers_flow/val
 
 # number of classes
 nc: 2
