@@ -1,6 +1,6 @@
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: https://github.com/AlfaReggie/Yolo_test/tree/main/car_pers_flow/train/labels
-val: https://github.com/AlfaReggie/Yolo_test/tree/main/car_pers_flow/val/labels
+train: https://drive.google.com/drive/folders/13XrrynDoPsKtrv_zZbsvXXAdDC3FHCPY?usp=share_linkv
+val: https://drive.google.com/drive/folders/1VfRtevH8_xfbp9NWCuvk3Eqrsst4NIVE?usp=share_link
 
 # number of classes
 nc: 2
